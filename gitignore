@@ -1,1 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+venv/
+ENV/
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+/venv/
+/pip/
+
+# Folders
 Bukhari/*
