@@ -49,6 +49,8 @@ To use the project, follow these steps:
 ```console
 user@machine:~$ python main.py
 ```
+## Collected data
+1- Sahih AL Bukhari : https://drive.google.com/drive/folders/1NSOnadQcnDkL-kEFjPFWelp9VYsy1gwu?usp=share_link
 
 ## License
 This project is licensed under the MIT License.
