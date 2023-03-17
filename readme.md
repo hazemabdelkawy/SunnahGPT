@@ -50,8 +50,8 @@ To use the project, follow these steps:
 user@machine:~$ python main.py
 ```
 ## Collected data
-1- Sahih AL Bukhari : https://drive.google.com/drive/folders/1NSOnadQcnDkL-kEFjPFWelp9VYsy1gwu?usp=share_link
-2- Sahih Muslim : https://drive.google.com/drive/folders/1FTXzw7dfg9QXoAjyesbZVQ6RyQ10Xxhe?usp=share_link
+- Sahih AL Bukhari : https://drive.google.com/drive/folders/1NSOnadQcnDkL-kEFjPFWelp9VYsy1gwu?usp=share_link
+- Sahih Muslim : https://drive.google.com/drive/folders/1FTXzw7dfg9QXoAjyesbZVQ6RyQ10Xxhe?usp=share_link
 
 ## License
 This project is licensed under the MIT License.
