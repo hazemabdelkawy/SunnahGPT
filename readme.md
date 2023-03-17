@@ -1,5 +1,14 @@
+## Abstract
+SunnahGPT is a natural language processing (NLP) project aimed at scraping hadith data from the popular website sunnah.com and applying OpenAI's GPT-3.5 model to generate textual embeddings for each hadith. The project is designed to provide researchers and developers with a comprehensive and structured dataset of hadiths, complete with accurate Arabic and English translations, reference information, and GPT-3.5 embeddings. We believe that SunnahGPT represents a significant step forward in the field of NLP and Islamic studies, providing researchers with a powerful tool for analyzing and understanding hadith literature.
 
-# Hadith dataset builder with GPT3 Embeddings for NLP projects
+## Introduction
+Hadith literature is an essential source of Islamic jurisprudence and theology, offering insights into the teachings of the Prophet Muhammad (PBUH) and the early Islamic community. Despite its importance, hadith literature remains challenging to study and analyze, particularly given the sheer volume of texts and the complexity of the Arabic language. In recent years, natural language processing (NLP) has emerged as a powerful tool for analyzing text data, offering researchers new ways to uncover insights and patterns in large datasets.
+
+SunnahGPT is a project that leverages NLP techniques to extract and analyze hadith data from sunnah.com. The project applies OpenAI's GPT-3.5 model to generate textual embeddings for each hadith, providing researchers with a powerful tool for studying and analyzing hadith literature. The project also provides a comprehensive and structured dataset of hadiths, complete with accurate Arabic and English translations, reference information, and GPT-3.5 embeddings.
+
+SunnahGPT represents a significant step forward in the field of NLP and Islamic studies, providing researchers with a powerful tool for analyzing and understanding hadith literature. We believe that this project has significant potential for advancing research in this area and facilitating new insights into the teachings of the Prophet Muhammad (PBUH) and the early Islamic community.
+
+## SunnahGPT Embeddings for NLP projects
 
 This is a Python script to scrape hadiths from sunnah.com and save the extracted data in JSON files. The script uses BeautifulSoup to parse HTML content and OpenAI's text-embedding API to embed the hadiths' text.
 
