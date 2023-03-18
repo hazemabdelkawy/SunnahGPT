@@ -28,4 +28,4 @@ ENV/
 /pip/
 
 # data
-*.json
+data/**/
