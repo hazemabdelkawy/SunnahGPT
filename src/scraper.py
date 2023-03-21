@@ -131,7 +131,7 @@ class HadithScraper:
         hadith_containers = soup.find_all(class_='actualHadithContainer')
         hadiths_data = []
         for idx, container in enumerate(hadith_containers):
-            hadith_en_text = container.find(class_='text_details').get_text(strip=True)
+            hadith_en_text = container.find(class_='english_hadith_full').get_text(strip=True)
             hadith_ar_text = container.find(class_='arabic_hadith_full').get_text(strip=True)
             hadith_ref = container.find(class_='hadith_reference').get_text(strip=True)
             ref_parts = hadith_ref.split('In-book reference:')
