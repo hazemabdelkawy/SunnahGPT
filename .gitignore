@@ -36,3 +36,4 @@ embeddings/
 .gitignore
 src/.ipynb_checkpoints/scraper-checkpoint.py
 src/.DS_Store
+data/.DS_Store
