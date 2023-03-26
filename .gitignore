@@ -28,4 +28,11 @@ ENV/
 /pip/
 
 # data
-data/**/
+src/config.py
+embeddings/
+.ipynb_checkpoints/main-checkpoint.py
+.gitignore
+.gitignore
+.gitignore
+src/.ipynb_checkpoints/scraper-checkpoint.py
+src/.DS_Store
